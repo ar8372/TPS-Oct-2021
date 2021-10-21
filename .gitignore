@@ -130,4 +130,5 @@ dmypy.json
 
 # Manual ignore
 /DataSets/
+/my_folds/
 
